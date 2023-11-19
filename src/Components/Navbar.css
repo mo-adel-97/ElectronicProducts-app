@@ -1,0 +1,9 @@
+.NavBar{
+  width: 50%;
+}
+.BoxPages{
+    justify-content: space-evenly;
+}
+.BoxPages Button{
+    color: #5b5b5b;
+}
